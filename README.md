@@ -1,1 +1,1 @@
-Atualizei esse site que eu já tinha feito um tempinho atraz mas agora com as experiencias de agora, adicionei um botão de limpar quando você calcula, os textos ficam na cor da sua situação e a tela disliza para baixo para mostrar o qual sua situação e coloca uma borda vermelha em volta.
+Atualizei esse site que eu já tinha feito um tempinho atraz mas agora com as experiencias de agora, adicionei um botão de limpar quando você calcula, os textos ficam na cor da sua situação, a tela disliza para baixo para mostrar o qual sua situação e coloca uma borda vermelha em volta.
