@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(110, 109, 109);
+}
+
+
+
+header{
+    text-align: center;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background-color: rgb(98, 90, 90);
+    width: 100%;
+    color: lightgoldenrodyellow;
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+}
+
+
+div{
+    text-align: center;
+    margin: 180px auto;
+    border: 10px solid rgb(98, 90, 90);
+    width: 30rem;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+}
+
+p{
+    margin-right: 17rem;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+}
+
+input{
+    border: 0.3px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 20rem;
+}
+
+
+button{
+    width: 7rem;
+    height: 2rem;
+    border-radius: 20px;
+    background-color: rgb(78, 77, 77);
+    color: lightgoldenrodyellow;
+    transition: backgroun-color 0.3 ease;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button:hover{
+    background-color: rgb(51, 50, 50);
+}
+
+h4{
+    font-size: 30px;
+}
+
+#botaolimpar{
+    top: 330px;
+    position: absolute;
+    top: 430px;
+    left: 230px;
+    background-color: rgb(98, 98, 98);
+    width: 50px;
+}
+
+img{
+    width: 100px;
+}
+
+#explicacoes{
+    width: 100%;
+    max-width: 70rem;
+    display: flex;
+    gap: 20px;
+}
+
+#lixeira{
+    width: 20px;
+}
+
+#calculadora{
+    width: 70px;
+    position: absolute;
+    left: 480px;
+    top: 20px;
+}
